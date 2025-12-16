@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bpmrmlp1861xo"
+path="res://.godot/imported/sfx_coin_double1.wav-af50c1cc3ab333ed3e37d8dcd3b8df61.sample"
+
+[deps]
+
+source_file="res://assets/graphics/TERV/General Sounds/Coins/sfx_coin_double1.wav"
+dest_files=["res://.godot/imported/sfx_coin_double1.wav-af50c1cc3ab333ed3e37d8dcd3b8df61.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bkyksr11l5h67"
+path="res://.godot/imported/sfx_weapon_singleshot10.wav-28236f8f0e8594867781b76c1aba631a.sample"
+
+[deps]
+
+source_file="res://assets/graphics/TERV/Weapons/Single Shot Sounds/sfx_weapon_singleshot10.wav"
+dest_files=["res://.godot/imported/sfx_weapon_singleshot10.wav-28236f8f0e8594867781b76c1aba631a.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

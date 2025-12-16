@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://drbw5k1ffm66k"
+path="res://.godot/imported/sfx_sound_mechanicalnoise5.wav-e74f6d868da4a42a89a977e6d668ba62.sample"
+
+[deps]
+
+source_file="res://assets/graphics/TERV/General Sounds/Weird Sounds/sfx_sound_mechanicalnoise5.wav"
+dest_files=["res://.godot/imported/sfx_sound_mechanicalnoise5.wav-e74f6d868da4a42a89a977e6d668ba62.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

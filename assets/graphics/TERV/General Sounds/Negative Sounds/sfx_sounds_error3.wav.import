@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://cv6sehvsnq230"
+path="res://.godot/imported/sfx_sounds_error3.wav-a66cf0987f0d68ad33d5ee510632b683.sample"
+
+[deps]
+
+source_file="res://assets/graphics/TERV/General Sounds/Negative Sounds/sfx_sounds_error3.wav"
+dest_files=["res://.godot/imported/sfx_sounds_error3.wav-a66cf0987f0d68ad33d5ee510632b683.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

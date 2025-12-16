@@ -1,0 +1,20 @@
+[gd_scene load_steps=5 format=3 uid="uid://bex1gf8ead8dt"]
+
+[ext_resource type="Texture2D" uid="uid://cqrtedfwv5mf6" path="res://Balle/skin_balle_a.tres" id="1_ek2sj"]
+[ext_resource type="PhysicsMaterial" uid="uid://dftdlekncpxc5" path="res://Balle/balle_physics.tres" id="1_the3q"]
+[ext_resource type="Script" uid="uid://b6lubfv6q1gdp" path="res://Balle/balle_movements.gd" id="2_mq1lt"]
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_mq1lt"]
+radius = 5.0
+
+[node name="RigidBody2D" type="RigidBody2D"]
+physics_material_override = ExtResource("1_the3q")
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+texture = ExtResource("1_ek2sj")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+shape = SubResource("CircleShape2D_mq1lt")
+
+[node name="Node" type="Node" parent="."]
+script = ExtResource("2_mq1lt")

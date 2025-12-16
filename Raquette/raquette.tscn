@@ -1,0 +1,19 @@
+[gd_scene load_steps=4 format=3 uid="uid://c3whduj10j4go"]
+
+[ext_resource type="Texture2D" uid="uid://deihj04tt6sbv" path="res://Raquette/skin_raquette_a.tres" id="1_awm8m"]
+[ext_resource type="Script" uid="uid://do6ad2gg0obbg" path="res://Raquette/control_joueur.gd" id="2_kevw6"]
+
+[sub_resource type="CapsuleShape2D" id="CapsuleShape2D_kevw6"]
+height = 70.0
+
+[node name="Raquette" type="CharacterBody2D"]
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+texture = ExtResource("1_awm8m")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+rotation = -1.5707964
+shape = SubResource("CapsuleShape2D_kevw6")
+
+[node name="Control Joueur" type="Node" parent="."]
+script = ExtResource("2_kevw6")

@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://b1lk7h2tenkd7"
+path="res://.godot/imported/sfx_wpn_noammo3.wav-16af99539dd9c761f269bef439d5e2be.sample"
+
+[deps]
+
+source_file="res://assets/graphics/TERV/Weapons/Out of Ammo/sfx_wpn_noammo3.wav"
+dest_files=["res://.godot/imported/sfx_wpn_noammo3.wav-16af99539dd9c761f269bef439d5e2be.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

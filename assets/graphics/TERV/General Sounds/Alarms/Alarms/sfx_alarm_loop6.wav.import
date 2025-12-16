@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bomx3ggmjwa3k"
+path="res://.godot/imported/sfx_alarm_loop6.wav-28796ed23ead8253b9ba640480933f09.sample"
+
+[deps]
+
+source_file="res://assets/graphics/TERV/General Sounds/Alarms/Alarms/sfx_alarm_loop6.wav"
+dest_files=["res://.godot/imported/sfx_alarm_loop6.wav-28796ed23ead8253b9ba640480933f09.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2
